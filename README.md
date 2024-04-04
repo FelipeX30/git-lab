@@ -1,2 +1,5 @@
-# git-lab
-git practice lab
+# Git and github laboratory
+
+git practice laboratory
+
+Felipe de Araujo Barbosa
